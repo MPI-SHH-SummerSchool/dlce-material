@@ -1,5 +1,5 @@
-## Welcome 
-### to the class on "Bayesian Phylogenetic Linguistics" taught by Annika Tjuka, Nataliia Hübler and Olena Shcherbakova.
+## Welcome to the class on "Bayesian Phylogenetic Linguistics"
+### taught by [Annika Tjuka](http://annikatjuka.com), Nataliia Hübler and Olena Shcherbakova.
 
 _Friday, Aug 20 at 9am_
 
