@@ -1,2 +1,2 @@
-# Material of the classes in the section "Linguistics and Cultural Evolution"
+# Material of the classes in the section "Linguistic and Cultural Evolution"
 
