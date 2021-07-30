@@ -1,5 +1,5 @@
 ## Welcome to the class on "Introduction to Cognitive Science and Neuroscientific Methods"
-### taught by Ayaka Tsuchiya and Yoolim Kim.
+### taught by Ayaka Tsuchiya and Dr. Yoolim Kim.
 
 _Thursday, Aug 19 at 9am_
 
