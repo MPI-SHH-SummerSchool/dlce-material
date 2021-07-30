@@ -9,7 +9,7 @@ I will add the presentation slides after the class, so that you can check out al
 
 The class will be recorded so you can watch it (again) later. I will add the link here as soon as it is available.
 
-#### Key reference
+#### Key references
 
 Evans, Nicholas & Stephen C. Levinson. 2009. The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and Brain Sciences 32(5). 429–448. [https://doi.org/10.1017/S0140525X0999094X](https://doi.org/10.1017/S0140525X0999094X).
 
