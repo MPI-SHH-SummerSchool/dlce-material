@@ -1,7 +1,7 @@
 ## Welcome to the class on "Language Attitudes"
 ### taught by Olena Shcherbakova.
 
-Monday, Aug 23 at 9am_
+_Monday, Aug 23 at 9am_
 
 In this folder, you'll find the material for the class. If you have time, please read the key reference article that will give you some insight into the topic.
 
