@@ -3,13 +3,17 @@
 
 _Monday, Aug 16 at 12.15am_
 
-In this folder, you'll find the material for our class. If you have time, please read (one of) the key reference articles that will give you some insight into the topic.
+In this folder, you'll find the material for our class. If you have time, please read the key reference article that will give you some insight into the topic.
 
 I will add the presentation slides after the class, so that you can check out all the links and references.
 
 The class will be recorded so you can watch it (again) later. I will add the link here as soon as it is available.
 
-#### Key references
+#### Key reference
+
+Gray, Russell D., ‪Alexei J. Drummond & Simon J. Greenhill. 2009. Language phylogenies reveal expansion pulses and pauses in pacific settlement. Science 323(5913). 479–483. https://doi.org/10.1126/science.1166858.
+
+#### Further readings
 
 Evans, Nicholas & Stephen C. Levinson. 2009. The myth of language universals: Language diversity and its importance for cognitive science. Behavioral and Brain Sciences 32(5). 429–448. [https://doi.org/10.1017/S0140525X0999094X](https://doi.org/10.1017/S0140525X0999094X).
 
