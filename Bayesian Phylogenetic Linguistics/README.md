@@ -12,3 +12,5 @@ Our class will be recorded so you can watch it (again) later. We will add the li
 #### Key reference
 
 Evans, Cara L., Simon J. Greenhill, Joseph Watts, Johann-Mattis List, Carlos A. Botero, Russell D. Gray & Kathryn R. Kirby. 2021. The uses and abuses of tree thinking in cultural evolution. Philosophical Transactions of the Royal Society B: Biological Sciences 376(1828). 1–12. https://doi.org/10.1098/rstb.2020.0056.
+
+Greenhill, S. J., & Gray, R. D. 2009. Austronesian language phylogenies: myths and misconceptions about Bayesian computational methods. Austronesian historical linguistics and culture history: a festschrift for Robert Blust. Canberra: Pacific Linguistics, 375-397. [full text](https://www.researchgate.net/publication/328253088_Austronesian_language_phylogenies_myths_and_misconceptions_about_Bayesian_computational_methods)
