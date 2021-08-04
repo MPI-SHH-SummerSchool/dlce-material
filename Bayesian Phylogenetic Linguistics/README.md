@@ -11,4 +11,6 @@ Our class will be recorded so you can watch it (again) later. We will add the li
 
 #### Key reference
 
+Greenhill, Simon J., Paul Heggarty & Russell D. Gray. 2020. Bayesian Phylolinguistics. In The Handbook of Historical Linguistics, 226–253. New York, USA: John Wiley & Sons. https://doi.org/10.1002/9781118732168.ch11.
+
 Evans, Cara L., Simon J. Greenhill, Joseph Watts, Johann-Mattis List, Carlos A. Botero, Russell D. Gray & Kathryn R. Kirby. 2021. The uses and abuses of tree thinking in cultural evolution. Philosophical Transactions of the Royal Society B: Biological Sciences 376(1828). 1–12. https://doi.org/10.1098/rstb.2020.0056.
