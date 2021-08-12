@@ -1,7 +1,7 @@
 ## Welcome to the class on "Introduction to Linguistic & Cultural Evolution" 
 ### taught by [Annika Tjuka](http://annikatjuka.com).
 
-_Monday, Aug 16 at 9.30am_
+_Monday, Aug 16 at 9.15am_
 
 In this folder, you'll find the material for our class. If you have time, please read the key reference article that will give you some insight into the topic.
 
