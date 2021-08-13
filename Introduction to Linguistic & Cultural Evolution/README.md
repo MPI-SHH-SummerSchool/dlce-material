@@ -5,7 +5,7 @@ _Monday, Aug 16 at 9.15am_
 
 In this folder, you'll find the material for our class. If you have time, please read the key reference article that will give you some insight into the topic.
 
-I will add the presentation slides after the class, so that you can check out all the links and references.
+I also added the presentation slides so that you can check out all the links and references.
 
 The class will be recorded so you can watch it (again) later. I will add the link here as soon as it is available.
 
